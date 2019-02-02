@@ -1,0 +1,4 @@
+NOTE ABOUT THESE PROGRAMS:
+1. The letter_replacer.py file can be very dangerous on your own computer because it may replace and delete text that you have on your computer unintentionally, so please be careful
+2. The website_popup.py file must be modified, and you need to input a valid webiste URL to pop-up.
+3. If the package installs do not work: please do some research. It actually took me a while to fully install those packages as well.
