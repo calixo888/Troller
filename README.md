@@ -1,2 +1,2 @@
 # Troller
-Troller is basically a repository full of trolls. Key trolls, mouse trolls, browser trolls, all the trolls. These programs are hacking programs, but they're nothing harmful, and just plain fun. You can run these on your own computer or on someone else's, your choice. Just have fun with it!
+Troller is basically a repository full of trolls. Key trolls, mouse trolls, browser trolls, all the trolls. These programs are hacking programs, but they're nothing harmful, and just plain fun. You can run these on your own computer or on someone else's, your choice. Just have fun with it! There are packages involved, but since there are quite a few different programs, I have included the installation in each program.
